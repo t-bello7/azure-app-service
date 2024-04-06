@@ -15,14 +15,16 @@ In this task I deployed a Node JS application to Azure App Service and created a
 - Enabled Continous Deployment and Linked my github account to App service 
 
 - I choose the Basic Service Plan (B1)
-[!serviceplan](./images/appservice-plan.png)
+![serviceplan](./images/appservice-plan.png)
+
 - The deployed link is https://contour-air.azurewebsites.net/
-[!deployed Url](./images/deployed-url.png)
+
+![deployed Url](./images/deployed-url.png)
 
 - Upgraded App Service plan to Premium V3 P0V3 to enable staging slot feature
-[!app-service-2](./images/app-service-plan-12.png)
+![app-service-2](./images/app-service-plan-12.png)
 
 - Added the Staging Slot
-[!deployed Url](./images/staging-slot.png)
+![deployed Url](./images/staging-slot.png)
 
 - The deployed staging slot link is https://contour-air-staging.azurewebsites.net/
