@@ -2,6 +2,7 @@
 
 Azure App Service is a platform as a service that provides a platfrom to easily deploy applications of different stack.
 In this task I deployed a Node JS application to Azure App Service and created a Cosmo DB Server for the database credentials. Below are the steps I took
+- The github repository I deployed is https://github.com/t-bello7/ContosoAir
 - Create a Resource Group in US East to add resources 
 ![resource-group](./images/app-service-rg.png)
 

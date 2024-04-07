@@ -1,0 +1,36 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_contour_air_name": {
+            "value": null
+        },
+        "components_contour_air_name": {
+            "value": null
+        },
+        "databaseAccounts_db_user_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_jaspuqrm_name": {
+            "value": null
+        },
+        "serverfarms_ASP_appservicerg_afbf_name": {
+            "value": null
+        },
+        "privateEndpoints_endpoint_cb3xdas2v7a4u_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_mongo_cosmos_azure_com_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_9b9715af_d0a2_48b5_aec8_c0564a0468a0_EUS_externalid": {
+            "value": null
+        },
+        "databaseAccounts_contour_air_server_externalid": {
+            "value": null
+        }
+    }
+}
